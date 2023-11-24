@@ -1,4 +1,4 @@
-//design a ligin form to implement form processing
+//design a login form to implement form processing
 
 
 <!DOCTYPE html>
