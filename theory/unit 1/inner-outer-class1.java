@@ -1,4 +1,4 @@
-Sample code: Access Outer Class From Inner Class
+//Sample code: Access Outer Class From Inner Class
 
 
 class OuterClass {
